@@ -29,9 +29,7 @@ public class Aluno {
         System.out.println("Matricula:" +matricula);
         System.out.println("Curso:" +curso);
     }
-    
-    
-    
+   
      public static void main(String[] args) {
          Aluno a1 = new Aluno();
          Aluno a2 = new Aluno("Julia","272aa", "info");
