@@ -13,8 +13,7 @@ public class Retangulo {
     
     double calcularArea (){
         
-        return largura * altura;
-      
+        return largura * altura; 
     }
     
     double calcularPerimetro (){
