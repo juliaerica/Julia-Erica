@@ -1,13 +1,20 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package juliaericalista;
 
-/**
- *
- * @author Julia
- */
 public class Funcionario {
     
+    String nome;
+    String cpf;
+    double salarioBase;
+
+    public Funcionario(String nome, String cpf, double salarioBase) {
+        this.nome = nome;
+        this.cpf = cpf;
+        this.salarioBase = salarioBase;
+    }
+    
+    public double calcularSalario (){
+       
+        return salarioBase;
+        
+    }
 }
