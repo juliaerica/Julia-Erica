@@ -1,4 +1,5 @@
-package juliaericalista;
+package juliaericalista.Questao01;
+
 import java.util.Scanner;
 
 public class MainRetangulo {

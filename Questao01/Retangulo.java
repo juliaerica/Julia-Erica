@@ -1,4 +1,4 @@
-package juliaericalista;
+package juliaericalista.Questao01;
 
 public class Retangulo {
     
