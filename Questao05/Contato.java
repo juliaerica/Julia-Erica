@@ -1,4 +1,4 @@
-package juliaericalista;
+package juliaericalista.Questao05;
 import java.util.HashSet;
 import java.util.Objects;
 

@@ -1,4 +1,6 @@
-package juliaericalista;
+package juliaericalista.Questao10;
+import juliaericalista.Questao10.Usuario;
+import juliaericalista.Questao10.Livro;
 import java.util.ArrayList;
 
 public class Biblioteca {

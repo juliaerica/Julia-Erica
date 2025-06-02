@@ -1,4 +1,4 @@
-package juliaericalista;
+package juliaericalista.Questao02;
 
 public class ContaBancaria {
     

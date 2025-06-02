@@ -1,5 +1,8 @@
 
-package juliaericalista;
+package juliaericalista.Questao10;
+
+import juliaericalista.Questao10.Biblioteca;
+import juliaericalista.Questao10.Livro;
 
 public class MainBiblioteca {
     public static void main(String[] args) {

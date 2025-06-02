@@ -1,4 +1,6 @@
-package juliaericalista;
+package juliaericalista.Questao06;
+
+import juliaericalista.Questao06.Endereco;
 
 public class Pessoa {
     

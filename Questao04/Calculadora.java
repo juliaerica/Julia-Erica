@@ -1,4 +1,4 @@
-package juliaericalista;
+package juliaericalista.Questao04;
 
 public class Calculadora {
     

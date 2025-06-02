@@ -1,4 +1,5 @@
-package juliaericalista;
+package juliaericalista.Questao02;
+import juliaericalista.Questao02.ContaBancaria;
 import java.util.Scanner;
 
 public class MainContaBancaria {
@@ -11,7 +12,7 @@ public class MainContaBancaria {
         System.out.println("=== Dados Iniciais === \n");
         conta.mostrarDados();
        
-        System.out.print("\nDigite o valor para depósito: ");
+        System.out.print("\nDigite o valor para deposito: ");
         double valorDeposito = teste.nextDouble();
         conta.depositar(valorDeposito);
         conta.mostrarDados();

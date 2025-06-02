@@ -1,4 +1,6 @@
-package juliaericalista;
+package juliaericalista.Questao07e08;
+
+import juliaericalista.Questao07e08.Funcionario;
 
 public class Vendedor extends Funcionario {
     

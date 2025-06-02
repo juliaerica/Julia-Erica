@@ -1,5 +1,5 @@
 
-package juliaericalista;
+package juliaericalista.Questao09;
 
 public class Interface {
 

@@ -1,4 +1,6 @@
-package juliaericalista;
+package juliaericalista.Questao10;
+
+import juliaericalista.Questao10.Usuario;
 
 public class UsuarioComum extends Usuario {
   

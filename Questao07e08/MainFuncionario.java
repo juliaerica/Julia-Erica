@@ -1,4 +1,8 @@
-package juliaericalista;
+package juliaericalista.Questao07e08;
+
+import juliaericalista.Questao07e08.Vendedor;
+import juliaericalista.Questao07e08.Gerente;
+import juliaericalista.Questao07e08.Funcionario;
 
 public class MainFuncionario {
     

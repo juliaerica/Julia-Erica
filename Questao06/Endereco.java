@@ -1,4 +1,4 @@
-package juliaericalista;
+package juliaericalista.Questao06;
 
 public class Endereco {
     

@@ -26,7 +26,7 @@ public class MainRetangulo {
     System.out.println("Perimetro do retangulo 1: " +ret1.calcularPerimetro());
     
     //retangulo2
-    System.out.println("\n\nRetangulo 2:");
+    System.out.println("\nRetangulo 2:");
     System.out.println("Digite Largura:");
     double largura2 = p.nextDouble();
     

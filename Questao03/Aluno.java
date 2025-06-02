@@ -1,4 +1,4 @@
-package juliaericalista;
+package juliaericalista.Questao03;
 
 public class Aluno {
 

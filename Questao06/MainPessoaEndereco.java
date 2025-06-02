@@ -1,4 +1,6 @@
-package juliaericalista;
+package juliaericalista.Questao06;
+import juliaericalista.Questao06.Pessoa;
+import juliaericalista.Questao06.Endereco;
 import java.util.Scanner;
 
 public class MainPessoaEndereco {
